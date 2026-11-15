@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Witness Drills</title>
+<style>
+  :root { --bg:#f6f4ef; --card:#fff; --ink:#1b2a49; --muted:#6b7280; --line:#e5e1d8; --good:#1f7a4d; --bad:#b4231b; --accent:#1b2a49; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#14161b; --card:#1f232b; --ink:#e8ecf4; --muted:#9aa3b2; --line:#2e3440; --good:#3fbf7f; --bad:#ef5a50; --accent:#9db4ff; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:24px 16px 48px; }
+  h1 { font-size:22px; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 20px; font-size:14px; }
+  .decks { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; }
+  .decks button { padding:16px 12px; text-align:left; }
+  .decks small { display:block; color:var(--muted); font-weight:400; margin-top:4px; }
+  button { font:inherit; font-weight:600; border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:10px; padding:12px 16px; cursor:pointer; }
+  button:hover { border-color:var(--accent); }
+  .bar { display:flex; justify-content:space-between; align-items:center; gap:8px; margin-bottom:12px; flex-wrap:wrap; }
+  .stats { color:var(--muted); font-size:14px; }
+  .progress { height:6px; background:var(--line); border-radius:3px; overflow:hidden; margin-bottom:16px; }
+  .progress div { height:100%; background:var(--accent); width:0; transition:width .2s; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; min-height:260px; padding:28px 24px; display:flex; flex-direction:column; justify-content:center; cursor:pointer; user-select:none; }
+  .label { font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; }
+  .front { font-size:22px; font-weight:600; }
+  .back { font-size:18px; margin-top:18px; padding-top:18px; border-top:1px dashed var(--line); }
+  .howto { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 16px; margin:0 0 18px; }
+  .howto summary { font-weight:600; cursor:pointer; }
+  .howto li { margin:8px 0; }
+  .group { grid-column:1/-1; font-size:15px; margin:14px 0 2px; color:var(--muted); font-weight:600; }
+  .modes { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:0 0 18px; }
+  .modes button { padding:22px 16px; text-align:left; }
+  .modes .big { display:block; font-size:20px; }
+  .modes small { display:block; color:var(--muted); font-weight:400; margin-top:6px; }
+  .cite { font-size:13px; color:var(--muted); margin-top:10px; }
+  .hint { color:var(--muted); font-size:13px; margin-top:18px; }
+  .actions { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:14px; }
+  .actions .bad { color:var(--bad); border-color:var(--bad); }
+  .actions .good { color:var(--good); border-color:var(--good); }
+  .done { text-align:center; padding:40px 16px; }
+  .done h2 { margin:0 0 8px; }
+  .link { background:none; border:none; color:var(--muted); padding:4px; font-weight:400; text-decoration:underline; }
+  [hidden] { display:none !important; }
+</style>
+</head>
+<body>
+<main>
+  <section id="home">
+    <h1>Harper Drills</h1>
+    <p class="sub">Flip the card, then mark it. Missed cards come back until you get every one right; then the deck starts over.</p>
+    <div class="modes" id="modes"><button id="mWit"><span class="big">Witnesses</span><small>Each witness's statement and the objections on direct</small></button><button id="mObj"><span class="big">Objections</span><small>General objections and your responses</small></button></div>
+    <div id="listHead" hidden><button class="link" id="toModes">&larr; Witnesses or objections</button><h2 class="group" id="listTitle"></h2><p class="sub" id="listNote"></p></div>
+    <details class="howto"><summary>How to drill</summary><ol><li><b>Pick your deck.</b> Witnesses drill their own deck. Attorneys drill their own witness and the witness they will cross.</li><li><b>Answer out loud before you flip.</b> Say the full answer as if you were on the stand. If you are somewhere quiet, write it down. Never flip first and decide you knew it.</li><li><b>Grade yourself strictly.</b> Got it means the exact fact: every name, number, date, and place right. Close is Missed. "About 20" when the answer is "over 20" is Missed. Hesitating more than a few seconds is Missed.</li><li><b>Finish every round.</b> The first round is the full deck. Each round after that is only the cards you missed. Keep going until a round has no misses. That is one clear.</li><li><b>Clear your deck once a day.</b> Do it at the same time each day until the competition. Your progress saves, so you can stop mid-round and come back.</li><li><b>Track your first round.</b> When you clear the full first round with no misses on two days in a row, move to speed rounds: answer each card in under three seconds.</li><li><b>Drill with a partner twice a week.</b> The partner reads the front as an attorney would ask it. The witness answers in character, in a full sentence. The partner marks the card. Witnesses must also be able to answer when the partner asks it as a leading question.</li><li><b>Start over when something changes.</b> If a card is edited or you take a few days off, press Start over to begin again with the full deck.</li></ol><p class="sub">Keyboard: Space or Enter flips the card, 1 is Missed it, 2 is Got it. On a phone, use Add to Home Screen to keep it one tap away.</p></details>
+    <div class="decks" id="deckList"></div>
+  </section>
+
+  <section id="drill" hidden>
+    <div class="bar">
+      <button class="link" id="back">&larr; Back to decks</button>
+      <span class="stats" id="stats"></span>
+      <button class="link" id="reset">Start over</button>
+    </div>
+    <div class="progress"><div id="prog"></div></div>
+    <div class="card" id="card" tabindex="0">
+      <div class="label" id="deckName"></div>
+      <div class="front" id="front"></div>
+      <div class="back" id="backText" hidden></div>
+      <div class="hint" id="hint">Tap the card or press Space to flip</div>
+    </div>
+    <div class="actions" id="actions" hidden>
+      <button class="bad" id="miss">Missed it <small>(1)</small></button>
+      <button class="good" id="got">Got it <small>(2)</small></button>
+    </div>
+    <div class="done" id="done" hidden>
+      <h2>Deck cleared</h2>
+      <p class="sub" id="doneText"></p>
+      <button id="again">Start the full deck again</button>
+    </div>
+  </section>
+</main>
+
+<script src="decks/jordan.js"></script>
+<script src="decks/hale.js"></script>
+<script src="decks/bennett.js"></script>
+<script src="decks/chen.js"></script>
+<script src="decks/obj_general.js"></script>
+<script src="decks/obj_jordan.js"></script>
+<script src="decks/obj_hale.js"></script>
+<script src="decks/obj_bennett.js"></script>
+<script src="decks/obj_chen.js"></script>
+<script>
+const ORDER = ["jordan", "hale", "bennett", "chen", "obj_general", "obj_jordan", "obj_hale", "obj_bennett", "obj_chen"];
+const KEY = id => "witness-drills:" + id;
+const $ = id => document.getElementById(id);
+let deckId = null, state = null, flipped = false;
+
+const store = {
+  get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+  del(k) { try { localStorage.removeItem(k); } catch {} }
+};
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const allIds = id => DECKS[id].cards.map(c => c.id);
+const cardById = (id, cid) => DECKS[id].cards.find(c => c.id === cid);
+
+function fresh(id) { const ids = allIds(id); return { round: 1, roundSize: ids.length, queue: shuffle(ids), missed: [], cleared: false, clears: 0 }; }
+
+function load(id) {
+  let s = store.get(KEY(id));
+  const valid = new Set(allIds(id));
+  if (!s || !Array.isArray(s.queue)) return fresh(id);
+  s.queue = s.queue.filter(x => valid.has(x));          // drop cards removed from the deck file
+  s.missed = (s.missed || []).filter(x => valid.has(x));
+  if (!s.queue.length && !s.cleared) return endRound(s, id);
+  return s;
+}
+
+function endRound(s, id) {
+  if (s.missed.length) {                                  // drill only what was missed
+    return { ...s, round: s.round + 1, roundSize: s.missed.length, queue: shuffle(s.missed), missed: [], cleared: false };
+  }
+  return { ...s, cleared: true, clears: (s.clears || 0) + 1, queue: [] };  // everything right: deck cleared
+}
+
+function save() { store.set(KEY(deckId), state); }
+
+let mode = null, witness = null;
+const NOTES = {
+  statements: "Pick a witness. Each witness has two decks: the witness's own statement, and the objections opposing counsel may make on that witness's direct.",
+  objections: "The front is the objection opposing counsel makes. Say your full response out loud, starting with \"Your Honor,\" before you flip. Got it means you named the right rule and gave the right basis."
+};
+const WIT = ["jordan", "hale", "bennett", "chen"];
+function deckButton(id, label) {
+  const s = store.get(KEY(id)); const d = DECKS[id];
+  let note = d.cards.length + " cards";
+  if (s && !s.cleared && s.queue && s.queue.length) note += " · round " + s.round + ", " + s.queue.length + " left";
+  if (s && s.cleared) note += " · cleared";
+  const b = document.createElement("button");
+  b.innerHTML = (label || d.title) + "<small>" + note + "</small>";
+  b.onclick = () => openDeck(id);
+  return b;
+}
+function renderHome() {
+  $("home").hidden = false; $("drill").hidden = true;
+  const picking = !mode;
+  $("modes").hidden = !picking; $("listHead").hidden = picking; $("deckList").hidden = picking;
+  document.querySelector(".howto").hidden = !picking;
+  if (picking) return;
+  $("deckList").innerHTML = "";
+  if (mode === "objections") {
+    $("toModes").innerHTML = "&larr; Witnesses or objections";
+    $("listTitle").textContent = "Objections"; $("listNote").textContent = NOTES.objections;
+    ORDER.filter(id => DECKS[id] && DECKS[id].kind === "objections").forEach(id => $("deckList").appendChild(deckButton(id)));
+    return;
+  }
+  if (!witness) {
+    $("toModes").innerHTML = "&larr; Witnesses or objections";
+    $("listTitle").textContent = "Witnesses"; $("listNote").textContent = NOTES.statements;
+    WIT.filter(w => DECKS[w]).forEach(w => {
+      const b = document.createElement("button");
+      const n = ORDER.filter(id => DECKS[id] && DECKS[id].witness === w).reduce((t, id) => t + DECKS[id].cards.length, 0);
+      b.innerHTML = DECKS[w].title + "<small>" + n + " cards in 2 decks</small>";
+      b.onclick = () => { witness = w; renderHome(); };
+      $("deckList").appendChild(b);
+    });
+    return;
+  }
+  $("toModes").innerHTML = "&larr; All witnesses";
+  $("listTitle").textContent = DECKS[witness].title; $("listNote").textContent = "";
+  ORDER.filter(id => DECKS[id] && DECKS[id].witness === witness).forEach(id =>
+    $("deckList").appendChild(deckButton(id, DECKS[id].kind === "witness-objections" ? "Objections on direct" : "Statement")));
+}
+$("mWit").onclick = () => { mode = "statements"; witness = null; renderHome(); };
+$("mObj").onclick = () => { mode = "objections"; witness = null; renderHome(); };
+$("toModes").onclick = () => { if (mode === "statements" && witness) witness = null; else mode = null; renderHome(); };
+
+function openDeck(id) {
+  deckId = id; state = load(id); save();
+  $("home").hidden = true; $("drill").hidden = false;
+  $("deckName").textContent = DECKS[id].source;
+  render();
+}
+
+function render() {
+  const cleared = state.cleared;
+  $("card").hidden = cleared; $("done").hidden = !cleared; $("actions").hidden = true;
+  const done = state.roundSize - state.queue.length;
+  $("prog").style.width = (cleared ? 100 : Math.round(100 * done / state.roundSize)) + "%";
+  if (cleared) {
+    $("stats").textContent = "";
+    $("doneText").textContent = "You got every card in " + DECKS[deckId].source + " right" + (state.round > 1 ? " after " + state.round + " rounds." : " on the first round.");
+    return;
+  }
+  const label = state.round === 1 ? "Full deck" : "Round " + state.round + ": missed cards only";
+  $("stats").textContent = label + " · " + (done + 1) + " of " + state.roundSize + (state.missed.length ? " · " + state.missed.length + " missed" : "");
+  const c = cardById(deckId, state.queue[0]);
+  flipped = false;
+  $("front").textContent = c.front;
+  $("backText").innerHTML = ""; $("backText").append(c.back); if (c.cite) { const sm = document.createElement("div"); sm.className = "cite"; sm.textContent = c.cite; $("backText").append(sm); } $("backText").hidden = true;
+  $("hint").hidden = false;
+}
+
+function flip() {
+  if (state.cleared || flipped) return;
+  flipped = true; $("backText").hidden = false; $("hint").hidden = true; $("actions").hidden = false;
+}
+
+function mark(gotIt) {
+  if (!flipped || state.cleared) return;
+  const cid = state.queue[0];
+  state.queue = state.queue.slice(1);
+  if (!gotIt) state.missed = [...state.missed, cid];
+  if (!state.queue.length) state = endRound(state, deckId);
+  save(); render();
+}
+
+$("card").onclick = flip;
+$("miss").onclick = () => mark(false);
+$("got").onclick = () => mark(true);
+$("back").onclick = renderHome;
+$("reset").onclick = () => { if (confirmReset()) { state = fresh(deckId); save(); render(); } };
+$("again").onclick = () => { state = { ...fresh(deckId), clears: state.clears }; save(); render(); };
+function confirmReset() { return true; }
+document.addEventListener("keydown", e => {
+  if ($("drill").hidden) return;
+  if (e.code === "Space" || e.key === "Enter") { e.preventDefault(); flip(); }
+  else if (e.key === "1") mark(false);
+  else if (e.key === "2") mark(true);
+});
+renderHome();
+</script>
+</body>
+</html>

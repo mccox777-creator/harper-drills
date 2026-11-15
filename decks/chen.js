@@ -12,7 +12,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c002",
-   "front": "When were you retained?",
+   "front": "When were you retained by the defense?",
    "back": "April 24, 2026",
    "cite": "p. 43, l. 1"
   },
@@ -84,7 +84,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c014",
-   "front": "What was the advanced training in?",
+   "front": "What was your advanced training at Duke in?",
    "back": "Pediatric hospital medicine",
    "cite": "p. 43, l. 12"
   },
@@ -114,7 +114,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c019",
-   "front": "What risks are you familiar with?",
+   "front": "What medication risks are you familiar with?",
    "back": "Continuing, adjusting, and stopping chronic medications during a hospital stay",
    "cite": "p. 43, ll. 17–18"
   },
@@ -126,13 +126,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c021",
-   "front": "What did you review?",
+   "front": "What did you review for this case?",
    "back": "All the affidavits and exhibits",
    "cite": "p. 43, l. 22"
   },
   {
    "id": "c022",
-   "front": "What else did you review?",
+   "front": "What else did you review for this case?",
    "back": "Dr. Hale's expert report",
    "cite": "p. 43, l. 23"
   },
@@ -180,13 +180,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c030",
-   "front": "Who else acknowledges that?",
+   "front": "Who else acknowledges there is no uniform taper procedure?",
    "back": "Dr. Hale",
    "cite": "p. 44, l. 32"
   },
   {
    "id": "c031",
-   "front": "What did the standard require Bennett to do?",
+   "front": "What did the standard of care require Dr. Bennett to do?",
    "back": "Use independent medical judgment to balance the risks",
    "cite": "p. 44, ll. 33–35"
   },
@@ -198,7 +198,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c033",
-   "front": "How do you describe her symptoms?",
+   "front": "How do you describe Taylor's symptoms?",
    "back": "Nonspecific, with several reasonable alternative explanations",
    "cite": "p. 44, ll. 38–39"
   },
@@ -216,13 +216,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c036",
-   "front": "What maintenance range does the label give for age 12 and up?",
+   "front": "What maintenance range does the FDA gabapentin label give for age 12 and up?",
    "back": "300 to 600 mg three times a day, 900 to 1,800 mg a day",
    "cite": "p. 44, ll. 44–46"
   },
   {
    "id": "c037",
-   "front": "For what condition is that range approved?",
+   "front": "For what condition is the FDA's 900 to 1,800 mg range approved?",
    "back": "Epilepsy",
    "cite": "p. 44, l. 47"
   },
@@ -234,7 +234,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c039",
-   "front": "How did Taylor's dose compare?",
+   "front": "How did Taylor's 3,600 mg dose compare with the FDA range?",
    "back": "Twice the upper end",
    "cite": "p. 44, l. 48"
   },
@@ -252,13 +252,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c042",
-   "front": "Was Taylor alert when she arrived?",
+   "front": "Was Taylor alert when she arrived at Saint Catherine's?",
    "back": "No. Notably drowsy",
    "cite": "p. 45, ll. 55–56"
   },
   {
    "id": "c043",
-   "front": "What did Bennett observe?",
+   "front": "What did Dr. Bennett observe about Taylor's alertness?",
    "back": "She closed her eyes during the exam and needed prompting to respond",
    "cite": "p. 45, ll. 56–57"
   },
@@ -270,19 +270,19 @@ window.DECKS.chen = {
   },
   {
    "id": "c045",
-   "front": "Did Bennett stop the gabapentin?",
+   "front": "Did Dr. Bennett stop Taylor's gabapentin?",
    "back": "No",
    "cite": "p. 45, l. 60"
   },
   {
    "id": "c046",
-   "front": "What did he reduce it to?",
+   "front": "What did Dr. Bennett reduce Taylor's gabapentin to?",
    "back": "1,800 mg, 600 mg three times a day",
    "cite": "p. 45, ll. 61–62"
   },
   {
    "id": "c047",
-   "front": "Was a slower taper an available option?",
+   "front": "Was a slower taper an available option for Dr. Bennett?",
    "back": "Yes",
    "cite": "p. 45, l. 63"
   },
@@ -306,7 +306,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c051",
-   "front": "Is there a standard amount for a taper?",
+   "front": "Is there a standard amount for a gabapentin taper?",
    "back": "No",
    "cite": "p. 45, l. 67"
   },
@@ -318,7 +318,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c053",
-   "front": "How many opinions are there on tapering?",
+   "front": "How many opinions are there on tapering gabapentin?",
    "back": "As many as there are hospitals in Massachusetts, a lot",
    "cite": "p. 45, l. 69"
   },
@@ -330,13 +330,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c055",
-   "front": "For Taylor, what would that be?",
+   "front": "For Taylor, what would the fastest hospital taper you have seen be?",
    "back": "1,200 mg every 48 hours",
    "cite": "p. 45, l. 71"
   },
   {
    "id": "c056",
-   "front": "How did Bennett's cut compare?",
+   "front": "How did Dr. Bennett's cut compare with the fastest taper you have seen?",
    "back": "Much higher: 1,800 mg immediately",
    "cite": "p. 45, ll. 72–73"
   },
@@ -348,25 +348,25 @@ window.DECKS.chen = {
   },
   {
    "id": "c058",
-   "front": "What was reasonable given an egregious dose?",
+   "front": "What was reasonable given Taylor's egregious dose?",
    "back": "To entertain aggressive solutions",
    "cite": "p. 45, ll. 74–75"
   },
   {
    "id": "c059",
-   "front": "What was the risk of keeping the dose?",
+   "front": "What was the risk of keeping Taylor's 3,600 mg dose?",
    "back": "Continuing or worsening Taylor's sedation",
    "cite": "p. 45, ll. 76–77"
   },
   {
    "id": "c060",
-   "front": "What was the risk of reducing it?",
+   "front": "What was the risk of reducing Taylor's dose?",
    "back": "Withdrawal",
    "cite": "p. 45, l. 78"
   },
   {
    "id": "c061",
-   "front": "How did Bennett balance the two?",
+   "front": "How did Dr. Bennett balance the risks of keeping and reducing Taylor's dose?",
    "back": "Continued gabapentin at a lower dose instead of stopping it",
    "cite": "p. 45, ll. 78–79"
   },
@@ -396,49 +396,49 @@ window.DECKS.chen = {
   },
   {
    "id": "c066",
-   "front": "So what did Bennett choose?",
+   "front": "Based on Ex. 11, what did Dr. Bennett's 1,800 mg dose represent?",
    "back": "The maximum dose that would actually help her pain",
    "cite": "p. 46, ll. 87–88"
   },
   {
    "id": "c067",
-   "front": "Can a significant reduction cause withdrawal?",
+   "front": "Can a significant gabapentin reduction cause withdrawal?",
    "back": "Yes",
    "cite": "p. 46, ll. 89–90"
   },
   {
    "id": "c068",
-   "front": "When is that risk greater?",
+   "front": "When is the risk of gabapentin withdrawal greater?",
    "back": "After a high dose for an extended time",
    "cite": "p. 46, ll. 90–91"
   },
   {
    "id": "c069",
-   "front": "How hard is withdrawal to manage in a hospital?",
+   "front": "How hard is gabapentin withdrawal to manage in a hospital?",
    "back": "Easily managed",
    "cite": "p. 46, l. 91"
   },
   {
    "id": "c070",
-   "front": "Was Bennett monitoring for withdrawal?",
+   "front": "Was Dr. Bennett monitoring Taylor for withdrawal?",
    "back": "Yes, appropriately",
    "cite": "p. 46, l. 92"
   },
   {
    "id": "c071",
-   "front": "Did Bennett have the benefit of hindsight?",
+   "front": "Did Dr. Bennett have the benefit of hindsight?",
    "back": "No",
    "cite": "p. 46, l. 94"
   },
   {
    "id": "c072",
-   "front": "Could Bennett tell how much Taylor was actually taking?",
+   "front": "Could Dr. Bennett tell how much gabapentin Taylor was actually taking?",
    "back": "No, it was impossible",
    "cite": "p. 46, ll. 95–96"
   },
   {
    "id": "c073",
-   "front": "Did Bennett have reason to question Reyes's diagnosis?",
+   "front": "Did Dr. Bennett have reason to question Dr. Reyes's diagnosis?",
    "back": "Yes, good reason",
    "cite": "p. 46, ll. 97–98"
   },
@@ -462,37 +462,37 @@ window.DECKS.chen = {
   },
   {
    "id": "c077",
-   "front": "What did Bennett note about who spoke for Taylor?",
+   "front": "What did Dr. Bennett note about who spoke for Taylor?",
    "back": "Jordan always spoke for her, and she appeared sedated",
    "cite": "p. 46, ll. 104–105"
   },
   {
    "id": "c078",
-   "front": "What else did Bennett note about Jordan?",
+   "front": "What else did Dr. Bennett note about Jordan?",
    "back": "Kept bringing up gabapentin, sought more doses, became irate and physically aggressive",
    "cite": "p. 46, ll. 107–109"
   },
   {
    "id": "c079",
-   "front": "Was Bennett's cautious approach prudent?",
+   "front": "Was Dr. Bennett's cautious approach prudent?",
    "back": "Yes",
    "cite": "p. 46, l. 111"
   },
   {
    "id": "c080",
-   "front": "Was Bennett right to question Dr. Reyes's care?",
+   "front": "Was Dr. Bennett right to question Dr. Reyes's care?",
    "back": "Yes",
    "cite": "p. 47, l. 114"
   },
   {
    "id": "c081",
-   "front": "What kind of practice did Reyes run?",
+   "front": "What kind of practice did Dr. Reyes run?",
    "back": "A small family practice in Cambridge",
    "cite": "p. 47, ll. 115–116"
   },
   {
    "id": "c082",
-   "front": "Where does Reyes refer his patients?",
+   "front": "Where does Dr. Reyes refer his patients?",
    "back": "Only to St. Catherine's",
    "cite": "p. 47, l. 116"
   },
@@ -504,13 +504,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c084",
-   "front": "How many patients did Reyes have?",
+   "front": "According to the administrators, how many patients did Dr. Reyes have?",
    "back": "Ten",
    "cite": "p. 47, l. 119"
   },
   {
    "id": "c085",
-   "front": "How many had CCPS?",
+   "front": "How many of Dr. Reyes's ten patients had CCPS?",
    "back": "Four",
    "cite": "p. 47, l. 120"
   },
@@ -528,7 +528,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c088",
-   "front": "What do you think Reyes was doing?",
+   "front": "What do you think Dr. Reyes was doing?",
    "back": "Telling patients what they wanted to hear and prescribing large doses",
    "cite": "p. 47, ll. 125–126"
   },
@@ -540,13 +540,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c090",
-   "front": "Were her symptoms consistent with CCPS?",
+   "front": "Were Taylor's symptoms consistent with CCPS?",
    "back": "Yes",
    "cite": "p. 47, ll. 127–129"
   },
   {
    "id": "c091",
-   "front": "Would CCPS be top of your mind?",
+   "front": "Given Taylor's symptoms, would CCPS be top of your mind?",
    "back": "Yes",
    "cite": "p. 47, l. 130"
   },
@@ -558,19 +558,19 @@ window.DECKS.chen = {
   },
   {
    "id": "c093",
-   "front": "How long does that testing take?",
+   "front": "How long does the testing needed to diagnose CCPS take?",
    "back": "Months",
    "cite": "p. 47, l. 131"
   },
   {
    "id": "c094",
-   "front": "Did Reyes run those tests?",
+   "front": "Did Dr. Reyes run the tests needed to diagnose CCPS?",
    "back": "You saw nothing showing he did",
    "cite": "p. 47, ll. 132–133"
   },
   {
    "id": "c095",
-   "front": "How many times did Reyes see Taylor?",
+   "front": "How many times did Dr. Reyes see Taylor?",
    "back": "As far as you could tell, once",
    "cite": "p. 47, l. 133"
   },
@@ -582,13 +582,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c097",
-   "front": "Did her presentation establish withdrawal?",
+   "front": "Did Taylor's presentation establish withdrawal?",
    "back": "No",
    "cite": "p. 48, l. 144"
   },
   {
    "id": "c098",
-   "front": "Was Bennett required to treat it as withdrawal?",
+   "front": "Was Dr. Bennett required to treat Taylor's symptoms as withdrawal?",
    "back": "No",
    "cite": "p. 48, ll. 144–145"
   },
@@ -600,7 +600,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c100",
-   "front": "When did most of the symptoms start?",
+   "front": "When did most of Taylor's symptoms start?",
    "back": "Before the medication change",
    "cite": "p. 48, l. 146"
   },
@@ -636,31 +636,31 @@ window.DECKS.chen = {
   },
   {
    "id": "c106",
-   "front": "What other explanations were reasonable?",
+   "front": "What other explanations for Taylor's symptoms were reasonable?",
    "back": "Medication effects and an acute CCPS flare",
    "cite": "p. 48, l. 151"
   },
   {
    "id": "c107",
-   "front": "What did Bennett prescribe for her symptoms?",
+   "front": "What did Dr. Bennett prescribe for Taylor's symptoms?",
    "back": "Ondansetron, more pain medicine, and IV fluids",
    "cite": "p. 48, ll. 152–154"
   },
   {
    "id": "c108",
-   "front": "Did Bennett continue her gabapentin?",
+   "front": "Did Dr. Bennett continue Taylor's gabapentin?",
    "back": "Yes",
    "cite": "p. 48, l. 155"
   },
   {
    "id": "c109",
-   "front": "What findings were absent?",
+   "front": "What signs of withdrawal were absent in Taylor?",
    "back": "Seizures, severe confusion, hallucinations, delirium",
    "cite": "p. 48, ll. 157–158"
   },
   {
    "id": "c110",
-   "front": "Could Taylor communicate?",
+   "front": "Could Taylor communicate during her stay?",
    "back": "Yes, appropriately",
    "cite": "p. 48, l. 158"
   },
@@ -672,13 +672,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c112",
-   "front": "What would that conversation suggest to a reasonable doctor?",
+   "front": "What would Taylor being more alert on July 15 suggest to a reasonable doctor?",
    "back": "Her sedation and function were improving with the lower dose",
    "cite": "p. 48, ll. 162–163"
   },
   {
    "id": "c113",
-   "front": "Is it common for a hospitalist to see a patient that little?",
+   "front": "Is it common for a hospitalist to see a patient as little as Dr. Bennett saw Taylor?",
    "back": "Yes, in a busy hospital",
    "cite": "p. 48, ll. 164–165"
   },
@@ -690,13 +690,13 @@ window.DECKS.chen = {
   },
   {
    "id": "c115",
-   "front": "How many children was Bennett responsible for?",
+   "front": "How many children was Dr. Bennett responsible for?",
    "back": "30, as the only doctor on the floor",
    "cite": "p. 48, l. 168"
   },
   {
    "id": "c116",
-   "front": "What did that require of Bennett?",
+   "front": "What did caring for 30 children require of Dr. Bennett?",
    "back": "Triage toward the patients most in need",
    "cite": "p. 48, ll. 168–170"
   },
@@ -708,7 +708,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c118",
-   "front": "How do you describe what happened?",
+   "front": "How do you describe Taylor's aspiration?",
    "back": "A tragic, but unpredictable, turn of events",
    "cite": "p. 48, l. 171"
   },

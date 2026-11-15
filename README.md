@@ -17,7 +17,7 @@ Keyboard: Space or Enter flips the card, 1 is Missed it, 2 is Got it.
 
 ## How it works
 
-- Pick a witness. Round 1 is the full deck, shuffled.
+- Pick a witness. Round 1 is the full deck, in the order the cards appear in the statement.
 - Flip each card (tap, Space, or Enter), then mark **Missed it** (1) or **Got it** (2).
 - At the end of a round, the next round is only the cards you missed.
 - When you get every card in a round right, the deck is cleared. Start it again for a fresh full round.

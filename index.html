@@ -91,7 +91,7 @@
 <script src="decks/obj_chen.js"></script>
 <script>
 const ORDER = ["jordan", "hale", "bennett", "chen", "obj_general", "obj_jordan", "obj_hale", "obj_bennett", "obj_chen"];
-const KEY = id => "witness-drills:" + id;
+const KEY = id => "witness-drills-v2:" + id;
 const $ = id => document.getElementById(id);
 let deckId = null, state = null, flipped = false;
 
@@ -100,11 +100,11 @@ const store = {
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
   del(k) { try { localStorage.removeItem(k); } catch {} }
 };
-const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const inOrder = (id, ids) => { const pos = new Map(allIds(id).map((c, i) => [c, i])); return ids.slice().sort((a, b) => pos.get(a) - pos.get(b)); };
 const allIds = id => DECKS[id].cards.map(c => c.id);
 const cardById = (id, cid) => DECKS[id].cards.find(c => c.id === cid);
 
-function fresh(id) { const ids = allIds(id); return { round: 1, roundSize: ids.length, queue: shuffle(ids), missed: [], cleared: false, clears: 0 }; }
+function fresh(id) { const ids = allIds(id); return { round: 1, roundSize: ids.length, queue: ids, missed: [], cleared: false, clears: 0 }; }
 
 function load(id) {
   let s = store.get(KEY(id));
@@ -118,7 +118,7 @@ function load(id) {
 
 function endRound(s, id) {
   if (s.missed.length) {                                  // drill only what was missed
-    return { ...s, round: s.round + 1, roundSize: s.missed.length, queue: shuffle(s.missed), missed: [], cleared: false };
+    return { ...s, round: s.round + 1, roundSize: s.missed.length, queue: inOrder(id, s.missed), missed: [], cleared: false };
   }
   return { ...s, cleared: true, clears: (s.clears || 0) + 1, queue: [] };  // everything right: deck cleared
 }

@@ -24,7 +24,7 @@ window.DECKS.jordan = {
   },
   {
    "id": "j004",
-   "front": "What did you do on the side?",
+   "front": "Besides teaching, what did you do on the side?",
    "back": "Improv comedy",
    "cite": "p. 23, l. 6"
   },
@@ -48,13 +48,13 @@ window.DECKS.jordan = {
   },
   {
    "id": "j008",
-   "front": "What ice cream did you get after?",
+   "front": "What ice cream did you and Taylor get after flying kites at North Point Park?",
    "back": "Honeycomb",
    "cite": "p. 23, l. 23"
   },
   {
    "id": "j009",
-   "front": "What was your running debate?",
+   "front": "What was your running debate with Taylor?",
    "back": "Which of you was funnier",
    "cite": "p. 23, l. 20"
   },
@@ -72,7 +72,7 @@ window.DECKS.jordan = {
   },
   {
    "id": "j012",
-   "front": "Who was her pediatrician?",
+   "front": "Who was Taylor's pediatrician?",
    "back": "Dr. Oates",
    "cite": "p. 24, l. 32"
   },
@@ -84,25 +84,25 @@ window.DECKS.jordan = {
   },
   {
    "id": "j014",
-   "front": "How many doctors did you see?",
+   "front": "How many doctors did you see about Taylor's leg pain?",
    "back": "At least ten",
    "cite": "p. 24, l. 37"
   },
   {
    "id": "j015",
-   "front": "What did one doctor think it was?",
+   "front": "What did one of those doctors think Taylor's leg pain was?",
    "back": "Anxiety",
    "cite": "p. 24, l. 37"
   },
   {
    "id": "j016",
-   "front": "What happened to her legs?",
+   "front": "What happened to Taylor's legs as the pain went on?",
    "back": "Red and warm to the touch",
    "cite": "p. 24, l. 45"
   },
   {
    "id": "j017",
-   "front": "What couldn't she stand touching her legs?",
+   "front": "What couldn't Taylor stand touching her legs?",
    "back": "Even long pants",
    "cite": "p. 24, ll. 46–47"
   },
@@ -114,49 +114,49 @@ window.DECKS.jordan = {
   },
   {
    "id": "j019",
-   "front": "Who reached out to whom?",
+   "front": "Did you reach out to Dr. Reyes, or did Dr. Reyes reach out to you?",
    "back": "Dr. Reyes reached out to you",
    "cite": "p. 24, l. 53"
   },
   {
    "id": "j020",
-   "front": "What did Reyes look at before diagnosing?",
+   "front": "What did Dr. Reyes look at before diagnosing Taylor?",
    "back": "The photo of Taylor's legs in your post",
    "cite": "p. 25, l. 56"
   },
   {
    "id": "j021",
-   "front": "What did Reyes diagnose?",
+   "front": "What did Dr. Reyes diagnose Taylor with?",
    "back": "CCPS",
    "cite": "p. 25, ll. 57–58"
   },
   {
    "id": "j022",
-   "front": "Is there a test for CCPS, per Reyes?",
+   "front": "According to Dr. Reyes, is there a test for CCPS?",
    "back": "No",
    "cite": "p. 25, l. 65"
   },
   {
    "id": "j023",
-   "front": "Is there an approved medication for CCPS?",
+   "front": "According to Dr. Reyes, is there an approved medication for CCPS?",
    "back": "No",
    "cite": "pp. 25, ll. 65–66"
   },
   {
    "id": "j024",
-   "front": "What did Reyes prescribe?",
+   "front": "What did Dr. Reyes prescribe for Taylor's CCPS?",
    "back": "Gabapentin and physical therapy",
    "cite": "p. 25, ll. 71–72"
   },
   {
    "id": "j025",
-   "front": "What dose?",
+   "front": "What gabapentin dose did Dr. Reyes prescribe for Taylor?",
    "back": "3,600 mg a day, three 1,200 mg doses",
    "cite": "p. 25, ll. 72–73"
   },
   {
    "id": "j026",
-   "front": "What did Reyes say about that dose for adults?",
+   "front": "What did Dr. Reyes say about the 3,600 mg dose for adults?",
    "back": "It's the maximum",
    "cite": "p. 25, ll. 73–74"
   },
@@ -168,25 +168,25 @@ window.DECKS.jordan = {
   },
   {
    "id": "j028",
-   "front": "Where did you keep the bottle?",
+   "front": "Where did you keep Taylor's gabapentin bottle?",
    "back": "A kitchen cabinet",
    "cite": "p. 25, l. 82"
   },
   {
    "id": "j029",
-   "front": "How many tablets per dose?",
+   "front": "How many tablets were in each of Taylor's gabapentin doses?",
    "back": "Four 300 mg tablets",
    "cite": "p. 25, ll. 82–83"
   },
   {
    "id": "j030",
-   "front": "When were the doses?",
+   "front": "When did Taylor take her three gabapentin doses?",
    "back": "Breakfast, lunch, and dinner",
    "cite": "p. 25, l. 83"
   },
   {
    "id": "j031",
-   "front": "What did you do during flare-ups?",
+   "front": "What did you do with the gabapentin when Taylor had a flare-up?",
    "back": "Gave an extra dose",
    "cite": "p. 26, l. 86"
   },
@@ -198,67 +198,67 @@ window.DECKS.jordan = {
   },
   {
    "id": "j033",
-   "front": "What did the pain feel like to her?",
+   "front": "On July 13, what did Taylor say the pain felt like?",
    "back": "Like her legs were being stabbed",
    "cite": "p. 26, ll. 90–91"
   },
   {
    "id": "j034",
-   "front": "What did you give her at home?",
+   "front": "On the night of July 13, what did you give Taylor at home?",
    "back": "Another dose of gabapentin",
    "cite": "p. 26, l. 93"
   },
   {
    "id": "j035",
-   "front": "How long did you wait?",
+   "front": "After that extra dose on July 13, how long did you wait before going to the hospital?",
    "back": "About an hour and a half",
    "cite": "p. 26, ll. 93–94"
   },
   {
    "id": "j036",
-   "front": "What was she doing with her stomach?",
+   "front": "Before you left for the hospital, what was Taylor doing with her stomach?",
    "back": "Holding it like she might throw up",
    "cite": "p. 26, l. 94"
   },
   {
    "id": "j037",
-   "front": "Why Saint Catherine's?",
+   "front": "Why did you take Taylor to Saint Catherine's?",
    "back": "The nearest children's hospital",
    "cite": "p. 26, l. 97"
   },
   {
    "id": "j038",
-   "front": "What did you ask the check-in man to do?",
+   "front": "What did you ask the check-in man at Saint Catherine's to do?",
    "back": "Call Dr. Reyes",
    "cite": "p. 26, ll. 98–99"
   },
   {
    "id": "j039",
-   "front": "What did the nurse say he would do?",
+   "front": "When you asked to have Dr. Reyes called, what did the nurse say he would do?",
    "back": "\"Let the doctor know\"",
    "cite": "p. 26, l. 101"
   },
   {
    "id": "j040",
-   "front": "Where did you wait?",
+   "front": "Where did you and Taylor wait at Saint Catherine's?",
    "back": "The triage room",
    "cite": "p. 26, l. 101"
   },
   {
    "id": "j041",
-   "front": "What happened to your pill bottle?",
+   "front": "What happened to your gabapentin bottle at Saint Catherine's?",
    "back": "The nurse took it; it was against regulation",
    "cite": "p. 26, ll. 104–106"
   },
   {
    "id": "j042",
-   "front": "Did you get it back?",
+   "front": "Did you get the gabapentin bottle back from the nurse?",
    "back": "No",
    "cite": "p. 26, l. 106"
   },
   {
    "id": "j043",
-   "front": "What time did Dr. Bennett come?",
+   "front": "What time did Dr. Bennett first come to see Taylor?",
    "back": "3 or 4 in the morning",
    "cite": "p. 26, ll. 110–111"
   },
@@ -270,61 +270,61 @@ window.DECKS.jordan = {
   },
   {
    "id": "j045",
-   "front": "Did Bennett examine her body?",
+   "front": "Did Dr. Bennett examine Taylor's body?",
    "back": "No",
    "cite": "p. 27, ll. 114–115"
   },
   {
    "id": "j046",
-   "front": "What did Bennett keep asking?",
+   "front": "What did Dr. Bennett keep asking you about Taylor's gabapentin dose?",
    "back": "\"Are you sure that's what a doctor prescribed?\"",
    "cite": "p. 27, ll. 123–124"
   },
   {
    "id": "j047",
-   "front": "What did you do?",
+   "front": "What did you do when Dr. Bennett kept questioning Taylor's dose?",
    "back": "Lost it a little; raised your voice",
    "cite": "p. 27, ll. 126–127"
   },
   {
    "id": "j048",
-   "front": "What dose did Bennett order?",
+   "front": "What gabapentin dose did Dr. Bennett order for Taylor?",
    "back": "1,800 mg a day, three 600 mg doses",
    "cite": "p. 27, ll. 131–132"
   },
   {
    "id": "j049",
-   "front": "How did you feel about it?",
+   "front": "How did you feel about Dr. Bennett's 1,800 mg order?",
    "back": "Frustrated, but glad she was getting something",
    "cite": "p. 27, l. 132"
   },
   {
    "id": "j050",
-   "front": "What did the nurse say when you asked for gabapentin?",
+   "front": "What did the nurse say when you asked for Taylor's gabapentin?",
    "back": "They'd speak with Dr. Bennett",
    "cite": "p. 27, l. 137"
   },
   {
    "id": "j051",
-   "front": "When did Bennett ask to speak with Taylor alone?",
+   "front": "When did Dr. Bennett ask to speak with Taylor alone?",
    "back": "The afternoon of July 15",
    "cite": "p. 27, l. 140"
   },
   {
    "id": "j052",
-   "front": "What did Bennett say about that?",
+   "front": "What did Dr. Bennett say about speaking with Taylor alone?",
    "back": "It was standard",
    "cite": "p. 27, l. 142"
   },
   {
    "id": "j053",
-   "front": "Whom did you call while waiting?",
+   "front": "While Dr. Bennett spoke with Taylor alone, whom did you call?",
    "back": "HR, to complain about Dr. Bennett",
    "cite": "p. 28, l. 145"
   },
   {
    "id": "j054",
-   "front": "What did Taylor say about the talk?",
+   "front": "What did Taylor say about her talk alone with Dr. Bennett?",
    "back": "It was fine",
    "cite": "p. 28, l. 147"
   },
@@ -342,7 +342,7 @@ window.DECKS.jordan = {
   },
   {
    "id": "j057",
-   "front": "What did the nurse do?",
+   "front": "On July 16, what did the nurse do when you asked whether Taylor was withdrawing?",
    "back": "Waved you off",
    "cite": "p. 28, l. 153"
   },
@@ -354,37 +354,37 @@ window.DECKS.jordan = {
   },
   {
    "id": "j059",
-   "front": "What did you ask on July 17?",
+   "front": "What did you ask the nurse on July 17?",
    "back": "Whether Dr. Bennett knew how sick she was",
    "cite": "p. 28, l. 156"
   },
   {
    "id": "j060",
-   "front": "Do you remember the answer?",
+   "front": "Do you remember the nurse's answer on July 17?",
    "back": "No",
    "cite": "p. 28, l. 157"
   },
   {
    "id": "j061",
-   "front": "Did you speak with Bennett on July 17?",
+   "front": "Did you speak with Dr. Bennett on July 17?",
    "back": "No",
    "cite": "p. 28, l. 158"
   },
   {
    "id": "j062",
-   "front": "Why did you step out?",
+   "front": "Why did you step out of Taylor's hospital room?",
    "back": "Phone calls and coffee",
    "cite": "p. 28, l. 159"
   },
   {
    "id": "j063",
-   "front": "How much of the time were you in the room?",
+   "front": "How much of the time were you in Taylor's hospital room?",
    "back": "About 90%",
    "cite": "p. 28, l. 160"
   },
   {
    "id": "j064",
-   "front": "How much weight did Taylor look like she lost?",
+   "front": "How much weight did Taylor look like she lost in the hospital?",
    "back": "At least 10 pounds",
    "cite": "p. 28, l. 163"
   },
@@ -396,31 +396,31 @@ window.DECKS.jordan = {
   },
   {
    "id": "j066",
-   "front": "What did you do?",
+   "front": "When Taylor started choking on July 18, what did you do?",
    "back": "Called for a nurse, then for help again",
    "cite": "p. 28, ll. 164–165"
   },
   {
    "id": "j067",
-   "front": "What happened to you during the code?",
+   "front": "What happened to you during Taylor's code on July 18?",
    "back": "Someone pulled you back",
    "cite": "p. 28, l. 167"
   },
   {
    "id": "j068",
-   "front": "Who held your hand?",
+   "front": "Who held your hand after Taylor's code?",
    "back": "A nurse",
    "cite": "p. 29, l. 172"
   },
   {
    "id": "j069",
-   "front": "What are you not?",
+   "front": "When it comes to Taylor's medical care, what do you acknowledge you are not?",
    "back": "A doctor",
    "cite": "p. 29, l. 177"
   },
   {
    "id": "j070",
-   "front": "What exhibits do you know?",
+   "front": "Which exhibits are you familiar with?",
    "back": "1, 2, 3, 4, and 10",
    "cite": "p. 29, l. 182"
   },
@@ -456,13 +456,13 @@ window.DECKS.jordan = {
   },
   {
    "id": "j076",
-   "front": "What happened that day?",
+   "front": "What happened on the day shown in Ex. 10, the court docket?",
    "back": "Your 25th birthday; things got too wild",
    "cite": "p. 29, l. 188"
   },
   {
    "id": "j077",
-   "front": "What did you do afterward?",
+   "front": "After the incident in Ex. 10, what did you do?",
    "back": "Took responsibility and finished probation",
    "cite": "p. 29, l. 189"
   }

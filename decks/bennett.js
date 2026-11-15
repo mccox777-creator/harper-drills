@@ -42,7 +42,7 @@ window.DECKS.bennett = {
   },
   {
    "id": "b007",
-   "front": "What was your residency in?",
+   "front": "What was your residency at Tufts in?",
    "back": "Pediatric hospital medicine",
    "cite": "p. 30, l. 5"
   },
@@ -54,13 +54,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b009",
-   "front": "Where have you worked since?",
+   "front": "Where have you worked since finishing residency?",
    "back": "Saint Catherine's Children's Hospital, Cambridge",
    "cite": "p. 30, ll. 7–8"
   },
   {
    "id": "b010",
-   "front": "What is your job?",
+   "front": "What is your job at Saint Catherine's?",
    "back": "Pediatric hospitalist",
    "cite": "p. 30, l. 7"
   },
@@ -84,19 +84,19 @@ window.DECKS.bennett = {
   },
   {
    "id": "b014",
-   "front": "How busy was it?",
+   "front": "How busy was Saint Catherine's when you first met Taylor?",
    "back": "One of the busiest times of the year",
    "cite": "p. 30, ll. 16–17"
   },
   {
    "id": "b015",
-   "front": "How many patients were on your floor?",
+   "front": "How many patients were on your floor when Taylor was admitted?",
    "back": "Thirty",
    "cite": "p. 30, l. 17"
   },
   {
    "id": "b016",
-   "front": "How were you and your nurses?",
+   "front": "How were you and your nurses when Taylor was admitted?",
    "back": "Overwhelmed",
    "cite": "p. 30, l. 18"
   },
@@ -120,13 +120,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b020",
-   "front": "What did the chart say she came in with?",
+   "front": "What did the chart say Taylor came in with?",
    "back": "Severe pain, sensitivity to touch, minor nausea",
    "cite": "p. 30, ll. 20–21"
   },
   {
    "id": "b021",
-   "front": "What diagnosis did Jordan report?",
+   "front": "What diagnosis did Jordan report for Taylor?",
    "back": "CCPS",
    "cite": "p. 30, l. 22"
   },
@@ -138,25 +138,25 @@ window.DECKS.bennett = {
   },
   {
    "id": "b023",
-   "front": "Where was Jordan when you entered?",
+   "front": "Where was Jordan when you first entered Taylor's room?",
    "back": "Seated near Taylor's bed",
    "cite": "p. 30, ll. 25–26"
   },
   {
    "id": "b024",
-   "front": "Did Jordan let Taylor speak?",
+   "front": "When you first entered, did Jordan let Taylor speak?",
    "back": "No",
    "cite": "p. 30, l. 26"
   },
   {
    "id": "b025",
-   "front": "What did Jordan yell when you asked Taylor's pain?",
+   "front": "What did Jordan yell when you asked Taylor about her pain level?",
    "back": "\"10, 10, I told you 10\"",
    "cite": "p. 31, l. 28"
   },
   {
    "id": "b026",
-   "front": "What did you ask Jordan to do?",
+   "front": "When Jordan yelled Taylor's pain score, what did you ask Jordan to do?",
    "back": "Let Taylor speak",
    "cite": "p. 31, l. 29"
   },
@@ -174,19 +174,19 @@ window.DECKS.bennett = {
   },
   {
    "id": "b029",
-   "front": "Was Taylor nauseated?",
+   "front": "Was Taylor nauseated when you first saw her?",
    "back": "Mildly",
    "cite": "p. 31, l. 31"
   },
   {
    "id": "b030",
-   "front": "How did Taylor appear?",
+   "front": "How did Taylor appear when you first saw her?",
    "back": "Notably tired, almost sedated",
    "cite": "p. 31, ll. 31–32"
   },
   {
    "id": "b031",
-   "front": "What did Taylor do while speaking?",
+   "front": "What did Taylor do while speaking with you at your first visit?",
    "back": "Closed her eyes; needed prompting",
    "cite": "p. 31, ll. 32–33"
   },
@@ -198,7 +198,7 @@ window.DECKS.bennett = {
   },
   {
    "id": "b033",
-   "front": "What did Jordan say would happen without the medication?",
+   "front": "What did Jordan say would happen without Taylor's gabapentin?",
    "back": "\"Everything would go down the drain\"",
    "cite": "p. 31, ll. 36–37"
   },
@@ -210,13 +210,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b035",
-   "front": "What is 3,600 mg a day for an adult?",
+   "front": "What is 3,600 mg of gabapentin a day for an adult?",
    "back": "The highest possible regimen",
    "cite": "p. 31, l. 39"
   },
   {
    "id": "b036",
-   "front": "Is it appropriate for a child?",
+   "front": "Is 3,600 mg of gabapentin a day appropriate for a child?",
    "back": "Totally inappropriate",
    "cite": "p. 31, l. 40"
   },
@@ -240,13 +240,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b040",
-   "front": "Did what you saw match your drug-seeking training?",
+   "front": "Did Jordan's behavior match your drug-seeking training?",
    "back": "Not exactly, but close enough to keep an eye out",
    "cite": "p. 31, ll. 45–46"
   },
   {
    "id": "b041",
-   "front": "Whom did you alert?",
+   "front": "Whom did you alert about your concern about Jordan?",
    "back": "The nurses on the floor",
    "cite": "p. 31, ll. 46–48"
   },
@@ -264,49 +264,49 @@ window.DECKS.bennett = {
   },
   {
    "id": "b044",
-   "front": "What would more gabapentin do?",
+   "front": "What would more gabapentin have done to Taylor?",
    "back": "Worsen her sedation",
    "cite": "p. 31, l. 52"
   },
   {
    "id": "b045",
-   "front": "What did you tell Jordan you would do?",
+   "front": "Before ordering gabapentin, what did you tell Jordan you would do?",
    "back": "Review her medication history and evaluate Taylor yourself first",
    "cite": "p. 31, ll. 54–56"
   },
   {
    "id": "b046",
-   "front": "How close did Jordan get?",
+   "front": "How close did Jordan get to you that first night?",
    "back": "Your back was against the door",
    "cite": "p. 32, ll. 57–58"
   },
   {
    "id": "b047",
-   "front": "What did Jordan threaten?",
+   "front": "What did Jordan threaten that first night?",
    "back": "To take Taylor to another hospital, sue you, call the mayor, report you to the licensing board",
    "cite": "p. 32, ll. 58–60"
   },
   {
    "id": "b048",
-   "front": "Why did you order gabapentin then?",
+   "front": "Why did you order gabapentin that first night?",
    "back": "To calm Jordan down",
    "cite": "p. 32, l. 62"
   },
   {
    "id": "b049",
-   "front": "What dose did you order?",
+   "front": "What gabapentin dose did you order for Taylor?",
    "back": "1,800 mg a day, 600 mg three times a day",
    "cite": "p. 32, ll. 62–63"
   },
   {
    "id": "b050",
-   "front": "How did that compare with the home dose?",
+   "front": "How did your 1,800 mg order compare with Taylor's home dose?",
    "back": "Half",
    "cite": "p. 32, l. 63"
   },
   {
    "id": "b051",
-   "front": "Would you order more?",
+   "front": "Would you order more than 1,800 mg for Taylor?",
    "back": "Not a single milligram more for a 12-year-old",
    "cite": "p. 32, ll. 64–65"
   },
@@ -336,7 +336,7 @@ window.DECKS.bennett = {
   },
   {
    "id": "b056",
-   "front": "What is your job?",
+   "front": "As a hospitalist, how do you describe your job?",
    "back": "Stabilize patients and move them on",
    "cite": "p. 32, ll. 70–71"
   },
@@ -348,25 +348,25 @@ window.DECKS.bennett = {
   },
   {
    "id": "b058",
-   "front": "Did the records look legitimate?",
+   "front": "Did Dr. Reyes's records look legitimate?",
    "back": "Yes",
    "cite": "p. 32, l. 75"
   },
   {
    "id": "b059",
-   "front": "Did they show testing to rule out other diagnoses?",
+   "front": "Did Dr. Reyes's records show testing to rule out other diagnoses?",
    "back": "No",
    "cite": "p. 32, ll. 75–76"
   },
   {
    "id": "b060",
-   "front": "What did Reyes prescribe?",
+   "front": "What did Dr. Reyes prescribe for Taylor?",
    "back": "3,600 mg a day, three doses of 1,200",
    "cite": "p. 32, ll. 76–78"
   },
   {
    "id": "b061",
-   "front": "What did the FDA guidelines confirm?",
+   "front": "What did the FDA guidelines confirm about Taylor's dose?",
    "back": "Not approved for CCPS and not an acceptable amount for a child",
    "cite": "p. 32, ll. 78–79"
   },
@@ -384,49 +384,49 @@ window.DECKS.bennett = {
   },
   {
    "id": "b064",
-   "front": "What did you search?",
+   "front": "What did you search on Google about Dr. Reyes?",
    "back": "\"dr devon reyes massachusetts\"",
    "cite": "p. 32, l. 82"
   },
   {
    "id": "b065",
-   "front": "What kind of practice did he seem to run?",
+   "front": "What kind of practice did Dr. Reyes seem to run?",
    "back": "A small family practice in Cambridge",
    "cite": "p. 32, ll. 82–83"
   },
   {
    "id": "b066",
-   "front": "Where does he refer patients?",
+   "front": "Where does Dr. Reyes refer patients?",
    "back": "Exclusively to St. Catherine's",
    "cite": "p. 32, l. 83"
   },
   {
    "id": "b067",
-   "front": "What was the third result?",
+   "front": "What was the third Google result for Dr. Reyes?",
    "back": "A Board of Registration decision suspending Reyes",
    "cite": "p. 32, ll. 84–85"
   },
   {
    "id": "b068",
-   "front": "For how long and why?",
+   "front": "For how long, and why, was Dr. Reyes suspended?",
    "back": "A year, for over-prescribing opioids",
    "cite": "p. 32, ll. 85–86"
   },
   {
    "id": "b069",
-   "front": "What did you conclude about Reyes?",
+   "front": "What did you conclude about Dr. Reyes?",
    "back": "He wasn't careful, and you didn't trust his decisions",
    "cite": "p. 32, l. 86"
   },
   {
    "id": "b070",
-   "front": "Did you read the full article?",
+   "front": "Did you read the full article about Dr. Reyes's suspension?",
    "back": "No",
    "cite": "p. 33, l. 87"
   },
   {
    "id": "b071",
-   "front": "What did you base treatment on?",
+   "front": "What did you base Taylor's treatment on?",
    "back": "What you observed in the hospital",
    "cite": "p. 33, ll. 87–88"
   },
@@ -438,13 +438,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b073",
-   "front": "What did you order for nausea?",
+   "front": "What did you order for Taylor's nausea?",
    "back": "An anti-nausea medication as needed",
    "cite": "p. 33, l. 89"
   },
   {
    "id": "b074",
-   "front": "What else did you order?",
+   "front": "What else did you order for Taylor on admission?",
    "back": "IV fluids and a physical therapy evaluation",
    "cite": "p. 33, ll. 89–90"
   },
@@ -456,13 +456,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b076",
-   "front": "Could she speak and drink?",
+   "front": "Could Taylor speak and drink on the afternoon of July 14?",
    "back": "Yes, small amounts of fluid",
    "cite": "p. 33, ll. 96–97"
   },
   {
    "id": "b077",
-   "front": "What were her symptoms consistent with?",
+   "front": "What were Taylor's symptoms on July 14 consistent with?",
    "back": "A CCPS flare",
    "cite": "p. 33, l. 97"
   },
@@ -474,7 +474,7 @@ window.DECKS.bennett = {
   },
   {
    "id": "b079",
-   "front": "How did physical therapy go?",
+   "front": "How did Taylor's physical therapy go on July 15?",
    "back": "Minimal participation, severe pain with movement",
    "cite": "p. 33, ll. 101–102"
   },
@@ -498,19 +498,19 @@ window.DECKS.bennett = {
   },
   {
    "id": "b083",
-   "front": "What did Jordan do when asked to step out?",
+   "front": "What did Jordan do when you asked Jordan to step out on July 15?",
    "back": "Turned red, yelled, got inches away",
    "cite": "p. 33, ll. 112–113"
   },
   {
    "id": "b084",
-   "front": "What did you find on your mask?",
+   "front": "After Jordan got inches away, what did you find on your mask?",
    "back": "Spit, which must have come from Jordan",
    "cite": "p. 33, ll. 113–114"
   },
   {
    "id": "b085",
-   "front": "Whom did Jordan threaten to call?",
+   "front": "Whom did Jordan threaten to call on July 15?",
    "back": "Your \"boss\"",
    "cite": "p. 33, l. 115"
   },
@@ -522,31 +522,31 @@ window.DECKS.bennett = {
   },
   {
    "id": "b087",
-   "front": "Did Taylor feel safe at home?",
+   "front": "Did Taylor tell you she felt safe at home?",
    "back": "Yes",
    "cite": "p. 34, l. 118"
   },
   {
    "id": "b088",
-   "front": "Did Jordan force her to take medicine?",
+   "front": "Did Taylor say Jordan forced her to take medicine?",
    "back": "No",
    "cite": "p. 34, l. 119"
   },
   {
    "id": "b089",
-   "front": "What did Jordan sometimes tell her?",
+   "front": "What did Taylor say Jordan sometimes told her?",
    "back": "She needed an extra dose because Jordan \"could tell a flare was coming\"",
    "cite": "p. 34, ll. 119–120"
   },
   {
    "id": "b090",
-   "front": "Was Taylor afraid of Jordan?",
+   "front": "Did Taylor say she was afraid of Jordan?",
    "back": "No",
    "cite": "p. 34, ll. 120–121"
   },
   {
    "id": "b091",
-   "front": "How much did Jordan worry about her?",
+   "front": "How much did Taylor say Jordan worried about her?",
    "back": "\"A lot\"",
    "cite": "p. 34, l. 122"
   },
@@ -558,13 +558,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b093",
-   "front": "Did Taylor know how many pills she took?",
+   "front": "Did Taylor know how many gabapentin pills she took?",
    "back": "She couldn't remember",
    "cite": "p. 34, ll. 123–124"
   },
   {
    "id": "b094",
-   "front": "Could you be sure she was getting 3,600 mg?",
+   "front": "Could you be sure Taylor was getting 3,600 mg a day?",
    "back": "No",
    "cite": "p. 34, ll. 124–125"
   },
@@ -576,61 +576,61 @@ window.DECKS.bennett = {
   },
   {
    "id": "b096",
-   "front": "What did you suspect Jordan gave her?",
+   "front": "What did you suspect Jordan gave Taylor at each dose?",
    "back": "One or two tablets instead of four, keeping the rest",
    "cite": "p. 34, ll. 127–128"
   },
   {
    "id": "b097",
-   "front": "What happened on July 16?",
+   "front": "What happened to Taylor on July 16?",
    "back": "More nausea and vomiting several times",
    "cite": "p. 34, l. 131"
   },
   {
    "id": "b098",
-   "front": "What else did she report on July 16?",
+   "front": "What else did Taylor report on July 16?",
    "back": "More pain, trouble sleeping, restlessness, anxiety",
    "cite": "p. 34, l. 132"
   },
   {
    "id": "b099",
-   "front": "How were her vitals?",
+   "front": "How were Taylor's vitals on July 16?",
    "back": "Stable, except brief periods of elevated heart rate",
    "cite": "p. 34, ll. 133–134"
   },
   {
    "id": "b100",
-   "front": "What did you treat the nausea with?",
+   "front": "What did you treat Taylor's nausea with on July 16?",
    "back": "Ondansetron",
    "cite": "p. 34, l. 134"
   },
   {
    "id": "b101",
-   "front": "What else did you continue?",
+   "front": "What else did you continue for Taylor on July 16?",
    "back": "IV fluids, and gabapentin 600 mg three times daily",
    "cite": "p. 34, ll. 134–135"
   },
   {
    "id": "b102",
-   "front": "What did Jordan think was happening?",
+   "front": "What did Jordan think was happening to Taylor on July 16?",
    "back": "Withdrawal",
    "cite": "p. 34, l. 137"
   },
   {
    "id": "b103",
-   "front": "Did her symptoms have a single clear cause?",
+   "front": "Did Taylor's July 16 symptoms have a single clear cause?",
    "back": "No",
    "cite": "p. 34, l. 138"
   },
   {
    "id": "b104",
-   "front": "Name the other possible causes.",
+   "front": "Name the other possible causes of Taylor's July 16 symptoms.",
    "back": "Prior nausea, severe pain, eating little, poor sleep, medications that cause GI symptoms",
    "cite": "p. 34, ll. 139–140"
   },
   {
    "id": "b105",
-   "front": "Had she stopped gabapentin?",
+   "front": "Had Taylor stopped gabapentin by July 16?",
    "back": "No",
    "cite": "p. 34, ll. 140–141"
   },
@@ -642,13 +642,13 @@ window.DECKS.bennett = {
   },
   {
    "id": "b107",
-   "front": "What did you monitor?",
+   "front": "What did you monitor for Taylor on July 17?",
    "back": "Respiratory status, hydration, vital signs",
    "cite": "p. 34, ll. 144–145"
   },
   {
    "id": "b108",
-   "front": "Could Taylor communicate?",
+   "front": "Could Taylor communicate on July 17?",
    "back": "Yes, appropriately",
    "cite": "p. 34, l. 145"
   },
@@ -660,37 +660,37 @@ window.DECKS.bennett = {
   },
   {
    "id": "b110",
-   "front": "What happened during the vomiting episode?",
+   "front": "What happened during Taylor's vomiting episode on July 18?",
    "back": "She began coughing and struggling to breathe",
    "cite": "p. 35, l. 149"
   },
   {
    "id": "b111",
-   "front": "Who called for help?",
+   "front": "Who called for help during Taylor's vomiting episode?",
    "back": "Jordan",
    "cite": "p. 35, l. 150"
   },
   {
    "id": "b112",
-   "front": "What did the team do?",
+   "front": "What did the team do when Taylor struggled to breathe?",
    "back": "Oxygen, suctioning, intubation, CPR, emergency medications",
    "cite": "p. 35, ll. 150–153"
   },
   {
    "id": "b113",
-   "front": "What caused her death?",
+   "front": "What caused Taylor's death?",
    "back": "Complications from aspirating gastric contents",
    "cite": "p. 35, ll. 156–157"
   },
   {
    "id": "b114",
-   "front": "Can you say withdrawal was impossible?",
+   "front": "Can you say gabapentin withdrawal was impossible for Taylor?",
    "back": "No",
    "cite": "p. 35, ll. 159–160"
   },
   {
    "id": "b115",
-   "front": "What do you say about the symptoms you saw?",
+   "front": "What do you say about the symptoms you saw in Taylor?",
    "back": "Several possible explanations; they did not establish withdrawal",
    "cite": "p. 35, ll. 160–162"
   },
@@ -750,19 +750,19 @@ window.DECKS.bennett = {
   },
   {
    "id": "b125",
-   "front": "How might your Ex. 8 comments look?",
+   "front": "How might your comments in the HR emails, Ex. 8, look?",
    "back": "Insensitive, from the outside looking in",
    "cite": "p. 36, l. 179"
   },
   {
    "id": "b126",
-   "front": "What were you doing when you got the email?",
+   "front": "What were you doing when you got the HR email in Ex. 8?",
    "back": "Running around a floor of 30 patients",
    "cite": "p. 36, ll. 181–182"
   },
   {
    "id": "b127",
-   "front": "How do you deal with the secondary trauma?",
+   "front": "How do you deal with the secondary trauma of your job?",
    "back": "Sometimes gallows humor",
    "cite": "p. 36, ll. 183–184"
   },

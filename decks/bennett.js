@@ -252,8 +252,8 @@ window.DECKS.bennett = {
   },
   {
    "id": "b042",
-   "front": "What could explain Taylor's drowsiness?",
-   "back": "Excessive gabapentin",
+   "front": "If Taylor really was taking 3,600 mg a day, what could explain her drowsiness and slow responses?",
+   "back": "Too much gabapentin",
    "cite": "p. 31, ll. 49–50"
   },
   {
@@ -271,24 +271,24 @@ window.DECKS.bennett = {
   {
    "id": "b045",
    "front": "Before ordering gabapentin, what did you tell Jordan you would do?",
-   "back": "Review her medication history and evaluate Taylor yourself first",
+   "back": "Review her medication history, but not continue her home medications without first evaluating Taylor yourself",
    "cite": "p. 31, ll. 54–56"
   },
   {
    "id": "b046",
-   "front": "How close did Jordan get to you that first night?",
+   "front": "At your first visit, how close did Jordan get to you?",
    "back": "Your back was against the door",
    "cite": "p. 32, ll. 57–58"
   },
   {
    "id": "b047",
-   "front": "What did Jordan threaten that first night?",
-   "back": "To take Taylor to another hospital, sue you, call the mayor, report you to the licensing board",
+   "front": "At your first visit, what did Jordan threaten?",
+   "back": "To take Taylor to another hospital, sue you, call the mayor, and report you to the licensing board",
    "cite": "p. 32, ll. 58–60"
   },
   {
    "id": "b048",
-   "front": "Why did you order gabapentin that first night?",
+   "front": "At your first visit, why did you order gabapentin?",
    "back": "To calm Jordan down",
    "cite": "p. 32, l. 62"
   },
@@ -301,7 +301,7 @@ window.DECKS.bennett = {
   {
    "id": "b050",
    "front": "How did your 1,800 mg order compare with Taylor's home dose?",
-   "back": "Half",
+   "back": "Half of what Jordan claimed Taylor took",
    "cite": "p. 32, l. 63"
   },
   {
@@ -487,7 +487,7 @@ window.DECKS.bennett = {
   {
    "id": "b081",
    "front": "What did the nurse say about Taylor when Jordan was out?",
-   "back": "Calmer and moved more easily",
+   "back": "Calmer, or moved more easily",
    "cite": "p. 33, ll. 106–108"
   },
   {
@@ -696,7 +696,7 @@ window.DECKS.bennett = {
   },
   {
    "id": "b116",
-   "front": "Are you certain she took 3,600 mg a day?",
+   "front": "Are you certain Taylor took 3,600 mg a day before admission?",
    "back": "No",
    "cite": "p. 35, ll. 162–163"
   },
@@ -746,7 +746,7 @@ window.DECKS.bennett = {
    "id": "b124",
    "front": "What is Ex. 12?",
    "back": "The FDA prescription guidelines for gabapentin",
-   "cite": "pp. 35–36, ll. 176–177"
+   "cite": "p. 35, ll. 176–177"
   },
   {
    "id": "b125",

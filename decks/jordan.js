@@ -18,8 +18,8 @@ window.DECKS.jordan = {
   },
   {
    "id": "j003",
-   "front": "What was your job?",
-   "back": "Middle school English Language Arts teacher",
+   "front": "What did you do for work before Taylor got sick?",
+   "back": "Taught middle school English Language Arts at a local charter school",
    "cite": "p. 23, l. 5"
   },
   {
@@ -42,13 +42,13 @@ window.DECKS.jordan = {
   },
   {
    "id": "j007",
-   "front": "Where did Taylor love to fly kites?",
-   "back": "North Point Park",
+   "front": "Where did you and Taylor love to fly kites?",
+   "back": "North Point Park Island",
    "cite": "p. 23, l. 22"
   },
   {
    "id": "j008",
-   "front": "What ice cream did you and Taylor get after flying kites at North Point Park?",
+   "front": "What ice cream did you and Taylor get after flying kites?",
    "back": "Honeycomb",
    "cite": "p. 23, l. 23"
   },
@@ -90,19 +90,19 @@ window.DECKS.jordan = {
   },
   {
    "id": "j015",
-   "front": "What did one of those doctors think Taylor's leg pain was?",
+   "front": "What did one of those doctors think Taylor was experiencing?",
    "back": "Anxiety",
    "cite": "p. 24, l. 37"
   },
   {
    "id": "j016",
-   "front": "What happened to Taylor's legs as the pain went on?",
+   "front": "As Taylor's pain got worse, what happened to her legs?",
    "back": "Red and warm to the touch",
    "cite": "p. 24, l. 45"
   },
   {
    "id": "j017",
-   "front": "What couldn't Taylor stand touching her legs?",
+   "front": "What sometimes became unbearable for Taylor to have touching her legs?",
    "back": "Even long pants",
    "cite": "p. 24, ll. 46–47"
   },
@@ -140,12 +140,12 @@ window.DECKS.jordan = {
    "id": "j023",
    "front": "According to Dr. Reyes, is there an approved medication for CCPS?",
    "back": "No",
-   "cite": "pp. 25, ll. 65–66"
+   "cite": "p. 25, ll. 65–66"
   },
   {
    "id": "j024",
-   "front": "What did Dr. Reyes prescribe for Taylor's CCPS?",
-   "back": "Gabapentin and physical therapy",
+   "front": "What did Dr. Reyes prescribe, and where did he refer Taylor?",
+   "back": "Gabapentin, and a referral to a physical therapist",
    "cite": "p. 25, ll. 71–72"
   },
   {
@@ -234,7 +234,7 @@ window.DECKS.jordan = {
   },
   {
    "id": "j039",
-   "front": "When you asked to have Dr. Reyes called, what did the nurse say he would do?",
+   "front": "At check-in, what did the nurse assure you he would do?",
    "back": "\"Let the doctor know\"",
    "cite": "p. 26, l. 101"
   },
@@ -258,7 +258,7 @@ window.DECKS.jordan = {
   },
   {
    "id": "j043",
-   "front": "What time did Dr. Bennett first come to see Taylor?",
+   "front": "What time was it when Dr. Bennett was questioning Taylor?",
    "back": "3 or 4 in the morning",
    "cite": "p. 26, ll. 110–111"
   },
@@ -283,8 +283,8 @@ window.DECKS.jordan = {
   {
    "id": "j047",
    "front": "What did you do when Dr. Bennett kept questioning Taylor's dose?",
-   "back": "Lost it a little; raised your voice",
-   "cite": "p. 27, ll. 126–127"
+   "back": "Lost it a little; may have raised your voice and gotten in their face",
+   "cite": "p. 27, ll. 126–128"
   },
   {
    "id": "j048",
@@ -330,9 +330,9 @@ window.DECKS.jordan = {
   },
   {
    "id": "j055",
-   "front": "When did Taylor start vomiting?",
-   "back": "July 16",
-   "cite": "p. 28, ll. 148–150"
+   "front": "What happened on July 16 that was abnormal for Taylor?",
+   "back": "She vomited several times and couldn't keep anything down",
+   "cite": "p. 28, ll. 150–151"
   },
   {
    "id": "j056",
@@ -372,13 +372,13 @@ window.DECKS.jordan = {
   },
   {
    "id": "j062",
-   "front": "Why did you step out of Taylor's hospital room?",
+   "front": "On July 17, why did you step out of Taylor's room?",
    "back": "Phone calls and coffee",
    "cite": "p. 28, l. 159"
   },
   {
    "id": "j063",
-   "front": "How much of the time were you in Taylor's hospital room?",
+   "front": "On July 17, how much of the time were you in Taylor's room?",
    "back": "About 90%",
    "cite": "p. 28, l. 160"
   },
@@ -390,25 +390,25 @@ window.DECKS.jordan = {
   },
   {
    "id": "j065",
-   "front": "What happened after she vomited on July 18?",
+   "front": "What happened after Taylor vomited on July 18?",
    "back": "Coughing, choking, couldn't breathe",
    "cite": "p. 28, ll. 164–165"
   },
   {
    "id": "j066",
-   "front": "When Taylor started choking on July 18, what did you do?",
-   "back": "Called for a nurse, then for help again",
+   "front": "On July 18, when Taylor vomited and then began choking, what did you do?",
+   "back": "Called for a nurse, then called for help again",
    "cite": "p. 28, ll. 164–165"
   },
   {
    "id": "j067",
-   "front": "What happened to you during Taylor's code on July 18?",
-   "back": "Someone pulled you back",
-   "cite": "p. 28, l. 167"
+   "front": "When the medical team rushed in on July 18, what happened to you?",
+   "back": "Someone grabbed you and pulled you back",
+   "cite": "p. 28, ll. 166–167"
   },
   {
    "id": "j068",
-   "front": "Who held your hand after Taylor's code?",
+   "front": "Who squeezed your hand while you were sobbing on the floor?",
    "back": "A nurse",
    "cite": "p. 29, l. 172"
   },

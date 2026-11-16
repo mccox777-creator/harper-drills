@@ -186,15 +186,15 @@ window.DECKS.hale = {
   },
   {
    "id": "h031",
-   "front": "How many pediatric patients on gabapentin have you treated?",
+   "front": "How many pediatric patients on gabapentin, opioids, and similar medications have you treated?",
    "back": "Hundreds",
    "cite": "p. 38, l. 25"
   },
   {
    "id": "h032",
-   "front": "Have you treated gabapentin withdrawal?",
+   "front": "Have you treated patients with medication withdrawal symptoms?",
    "back": "Yes",
-   "cite": "p. 38, ll. 27–28"
+   "cite": "p. 38, ll. 26–28"
   },
   {
    "id": "h033",
@@ -258,9 +258,9 @@ window.DECKS.hale = {
   },
   {
    "id": "h043",
-   "front": "What was Taylor's diagnosis?",
+   "front": "According to Dr. Bennett, what prior diagnosis did Taylor have?",
    "back": "Chronic Complex Pain Syndrome (CCPS)",
-   "cite": "p. 38, l. 36"
+   "cite": "p. 38, ll. 35–36"
   },
   {
    "id": "h044",
@@ -278,7 +278,7 @@ window.DECKS.hale = {
    "id": "h046",
    "front": "Who prescribed Taylor's 3,600 mg gabapentin regimen?",
    "back": "Dr. Reyes",
-   "cite": "pp. 38–39, ll. 39–40"
+   "cite": "p. 38, ll. 39–40"
   },
   {
    "id": "h047",
@@ -324,7 +324,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h054",
-   "front": "What did Taylor's withdrawal contribute to?",
+   "front": "What did Taylor's withdrawal materially contribute to?",
    "back": "Taylor's repeated vomiting",
    "cite": "p. 39, l. 50"
   },
@@ -348,7 +348,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h058",
-   "front": "Was Taylor drowsy when she was admitted?",
+   "front": "Do you agree Taylor was drowsy?",
    "back": "Yes",
    "cite": "p. 39, l. 58"
   },
@@ -486,7 +486,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h081",
-   "front": "Is there a specific procedure for tapering gabapentin?",
+   "front": "Is there a specific procedure for tapering medication?",
    "back": "No",
    "cite": "p. 40, l. 88"
   },
@@ -570,8 +570,8 @@ window.DECKS.hale = {
   },
   {
    "id": "h095",
-   "front": "On July 16 and 17, did Dr. Bennett change Taylor's medications?",
-   "back": "Not in any way",
+   "front": "On July 17, despite Taylor's condition, did Dr. Bennett adjust her medications?",
+   "back": "Not in any way; the reduced gabapentin stayed the same",
    "cite": "p. 41, ll. 107–109"
   },
   {
@@ -630,8 +630,8 @@ window.DECKS.hale = {
   },
   {
    "id": "h105",
-   "front": "When did Dr. Bennett last physically examine Taylor?",
-   "back": "Not after July 15",
+   "front": "According to the records, did Dr. Bennett physically examine Taylor after July 15?",
+   "back": "No",
    "cite": "p. 41, ll. 122–123"
   },
   {

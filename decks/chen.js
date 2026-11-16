@@ -384,8 +384,8 @@ window.DECKS.chen = {
   },
   {
    "id": "c064",
-   "front": "What does Ex. 11 show about pain relief?",
-   "back": "1,800 mg works as well as 3,600, or even 10,000",
+   "front": "According to Ex. 11, how does 1,800 mg compare for pain relief in someone Taylor's age and weight?",
+   "back": "Same effect as 3,600 mg, or even 10,000 mg",
    "cite": "pp. 45–46, ll. 84–86"
   },
   {
@@ -463,7 +463,7 @@ window.DECKS.chen = {
   {
    "id": "c077",
    "front": "What did Dr. Bennett note about who spoke for Taylor?",
-   "back": "Jordan always spoke for her, and she appeared sedated",
+   "back": "Jordan appeared to always speak for her, and she appeared sedated",
    "cite": "p. 46, ll. 104–105"
   },
   {
@@ -500,7 +500,7 @@ window.DECKS.chen = {
    "id": "c083",
    "front": "Whom did you ask about Reyes's patients?",
    "back": "St. Catherine's administrators",
-   "cite": "pp. 47, ll. 117–118"
+   "cite": "p. 47, ll. 117–118"
   },
   {
    "id": "c084",
@@ -654,7 +654,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c109",
-   "front": "What signs of withdrawal were absent in Taylor?",
+   "front": "What findings that would make severe withdrawal more apparent were absent in Taylor?",
    "back": "Seizures, severe confusion, hallucinations, delirium",
    "cite": "p. 48, ll. 157–158"
   },
@@ -666,7 +666,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c111",
-   "front": "How was Taylor on July 15 compared with admission?",
+   "front": "In Dr. Bennett's July 15 conversation, how was Taylor compared with admission?",
    "back": "More alert and responsive",
    "cite": "p. 48, ll. 160–161"
   },

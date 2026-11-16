@@ -204,7 +204,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h034",
-   "front": "Have you supervised gabapentin dose changes in children?",
+   "front": "Have you supervised changes in chronic gabapentin therapy?",
    "back": "Yes, both increases and reductions",
    "cite": "p. 38, ll. 28–29"
   },
@@ -306,7 +306,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h051",
-   "front": "Did Taylor's circumstances require an emergency gabapentin reduction?",
+   "front": "Did Taylor's circumstances require an emergency reduction of that magnitude?",
    "back": "No",
    "cite": "p. 38, l. 45"
   },
@@ -342,7 +342,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h057",
-   "front": "Was any gabapentin reduction necessary for Taylor?",
+   "front": "Did Taylor's presentation require an immediate 50% reduction?",
    "back": "No",
    "cite": "p. 39, ll. 57–58"
   },
@@ -354,7 +354,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h059",
-   "front": "What do Taylor's records not show that might have justified a reduction?",
+   "front": "What do Taylor's records not show that would have required an emergency reduction?",
    "back": "Respiratory depression, hypoxemia, hemodynamic instability, or another acute condition",
    "cite": "p. 39, ll. 59–60"
   },
@@ -504,7 +504,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h084",
-   "front": "Where did you learn your gabapentin taper?",
+   "front": "Where did you learn your taper method?",
    "back": "From your mentors",
    "cite": "p. 40, l. 92"
   },
@@ -534,7 +534,7 @@ window.DECKS.hale = {
   },
   {
    "id": "h089",
-   "front": "What must happen when a patient's course suggests a decision is causing harm?",
+   "front": "What must happen when a patient's course suggests a decision may be producing an adverse effect?",
    "back": "The decision must be reassessed",
    "cite": "p. 40, ll. 96–98"
   },

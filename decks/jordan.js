@@ -18,8 +18,8 @@ window.DECKS.jordan = {
   },
   {
    "id": "j003",
-   "front": "What did you do for work before Taylor got sick?",
-   "back": "Taught middle school English Language Arts at a local charter school",
+   "front": "What did you teach, and where?",
+   "back": "Middle school English Language Arts at a local charter school",
    "cite": "p. 23, l. 5"
   },
   {
@@ -133,13 +133,13 @@ window.DECKS.jordan = {
   {
    "id": "j022",
    "front": "According to Dr. Reyes, is there a test for CCPS?",
-   "back": "No",
+   "back": "No single test can detect it",
    "cite": "p. 25, l. 65"
   },
   {
    "id": "j023",
    "front": "According to Dr. Reyes, is there an approved medication for CCPS?",
-   "back": "No",
+   "back": "No medication is specifically approved to treat it",
    "cite": "p. 25, ll. 65–66"
   },
   {
@@ -210,7 +210,7 @@ window.DECKS.jordan = {
   },
   {
    "id": "j035",
-   "front": "After that extra dose on July 13, how long did you wait before going to the hospital?",
+   "front": "After that extra dose on July 13, how long until it was clear even that didn't help?",
    "back": "About an hour and a half",
    "cite": "p. 26, ll. 93–94"
   },

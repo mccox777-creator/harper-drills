@@ -486,7 +486,7 @@ window.DECKS.bennett = {
   },
   {
    "id": "b081",
-   "front": "What did the nurse say about Taylor when Jordan was out?",
+   "front": "What did the attending nurse report about Taylor when Jordan wasn't in the room?",
    "back": "Calmer, or moved more easily",
    "cite": "p. 33, ll. 106–108"
   },
@@ -577,7 +577,7 @@ window.DECKS.bennett = {
   {
    "id": "b096",
    "front": "What did you suspect Jordan gave Taylor at each dose?",
-   "back": "One or two tablets instead of four, keeping the rest",
+   "back": "That Jordan could have been giving one or two tablets instead of four, keeping the rest",
    "cite": "p. 34, ll. 127–128"
   },
   {

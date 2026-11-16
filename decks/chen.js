@@ -306,7 +306,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c051",
-   "front": "Is there a standard amount for a gabapentin taper?",
+   "front": "Is there a standard amount for a medication taper?",
    "back": "No",
    "cite": "p. 45, l. 67"
   },
@@ -318,7 +318,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c053",
-   "front": "How many opinions are there on tapering gabapentin?",
+   "front": "How many opinions are there on hospital taper practices?",
    "back": "As many as there are hospitals in Massachusetts, a lot",
    "cite": "p. 45, l. 69"
   },
@@ -618,7 +618,7 @@ window.DECKS.chen = {
   },
   {
    "id": "c103",
-   "front": "What can hospitalization cause?",
+   "front": "What can hospitalization contribute to?",
    "back": "Sleep disruption and anxiety",
    "cite": "p. 48, l. 149"
   },
